@@ -13,7 +13,7 @@ updateVersions: false
 images:
   peatio: quay.io/openware/peatio:2.6.48
   barong: quay.io/openware/barong:2.6.44
-  frontend: quay.io/openware/baseapp:2.6.24
+  frontend: frontend/udonex-ui
   tower: quay.io/openware/tower:2.6.66
   rango: quay.io/openware/rango:2.6.1
 finex:
